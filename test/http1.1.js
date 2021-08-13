@@ -1,4 +1,4 @@
-// http2服务端代码
+// http1.1服务端代码
  
 const fs = require('fs')
 const path = require('path')
